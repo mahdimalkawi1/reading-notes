@@ -23,4 +23,5 @@ This course is designed for experienced developers who want to take their skills
 - [Introduction to SQL](Introduction_to_SQL.md)
 - [Practice in the Terminal](/Practice_in_the_Terminal.md)
 - [Prep Your Mindset](/Prep_Your_Mindset.md)
+- [Data Structures and Algorithms](/Data_Structures_and_Algorithms.md)
 
