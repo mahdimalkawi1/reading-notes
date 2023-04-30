@@ -24,4 +24,5 @@ This course is designed for experienced developers who want to take their skills
 - [Practice in the Terminal](/Practice_in_the_Terminal.md)
 - [Prep Your Mindset](/Prep_Your_Mindset.md)
 - [Data Structures and Algorithms](/Data_Structures_and_Algorithms.md)
+- [Engineering Readings ](/Engineering_Readings.md)
 
