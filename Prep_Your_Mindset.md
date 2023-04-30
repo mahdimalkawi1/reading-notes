@@ -15,7 +15,7 @@ I got a score of 21 on the four components of Emotional Intelligence. It seems t
 
 
 
- # Assessing Bias
+ # Assessing Bias 
 Upon completing the Bias Self-Assessment, my score was 107. According to the assessment, a score between 100 and 120 indicates high self-awareness, curiosity, and courage. While this is a positive result, I understand that this is an ongoing journey, and there is always room for improvement. Based on the results, I plan to examine the areas of unconscious bias where I scored the lowest to determine where I can further improve. I am interested in identifying my strongest and weakest areas and will focus on the areas I scored the lowest on in the coming weeks and beyond. Overall, this assessment was helpful in guiding me towards areas where I can improve and become more self-aware.
 
 
