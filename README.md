@@ -25,4 +25,7 @@ This course is designed for experienced developers who want to take their skills
 - [Prep Your Mindset](/Prep_Your_Mindset.md)
 - [Data Structures and Algorithms](/Data_Structures_and_Algorithms.md)
 - [Engineering Readings ](/Engineering_Readings.md)
+- [Read: Class 01](/Class_01.md)
+
+
 
