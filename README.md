@@ -29,6 +29,8 @@ This course is designed for experienced developers who want to take their skills
 
 
 - [Class 01](/Class-01/README.md)
+- [Class 02](/Class-02/README.md)
+
 
 
 
