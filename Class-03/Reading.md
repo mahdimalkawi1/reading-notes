@@ -18,9 +18,14 @@ Exception handling is a way to handle errors and unexpected situations in Python
 
 #### Example:
 
-try:
-     code that may raise an exception
-except:
-     handle the exception
-finally:
-     code that should always run
+try: <br>
+
+code that may raise an exception <br>
+
+except: <br>
+
+handle the exception <br>
+
+finally:<br>
+
+code that should always run <br>
