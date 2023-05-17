@@ -39,6 +39,8 @@ This course is designed for experienced developers who want to take their skills
 | 5 | [Linked Lists](/Linked%20Lists/README.md) |
 | 6 | [Class 06](/Class-06/README.md) |
 | 7 | [Class 07](/Class-07/README.md) |
+| 8 | [Stacks & Queues](/Stacks_Queues/README.md) |
+
 
 
 
