@@ -42,6 +42,8 @@ This course is designed for experienced developers who want to take their skills
 | 8 | [Stacks & Queues](/Stacks_Queues/README.md) |
 | 9 | [Class 08](/Class-08/README.md) |
 | 10 | [Class 09](/Class-09/README.md) |
+| 10 | [Class 11](/Class-11/README.md) |
+
 
 
 
