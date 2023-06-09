@@ -47,6 +47,7 @@ This course is designed for experienced developers who want to take their skills
 | 13 | [Class 13](/Class-13/README.md) |
 | 14 | [Class 14](/Class-14/README.md) |
 | 15 | [Trees ](/Trees/README.md) |
+| 16 | [Class 16](/Class-16/README.md) |
 
 
 
