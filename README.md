@@ -53,6 +53,8 @@ This course is designed for experienced developers who want to take their skills
 | 19 | [Class 27](/Class-27/README.md) |
 | 20 | [Class 28](/Class-28/README.md) |
 | 21 | [Class 29](/Class-29/README.md) |
+| 22 | [Hash Tables](/Hash-Tables/README.md) |
+
 
 
 
