@@ -1,0 +1,1 @@
+- [Read: Class 32](/Class-32/Reading.md)
