@@ -29,5 +29,5 @@ JWT Authentication integrates with Django REST Framework (DRF) to secure API end
 Django's runserver is not suitable for production due to security, performance, and reliability limitations. For production, consider using Gunicorn, uWSGI, Nginx, Apache with mod_wsgi, Docker with orchestration, or cloud-based platforms like Heroku, AWS Elastic Beanstalk, or Google App Engine. These options provide better performance, security, and scalability.
 
 
-
+-------
 
