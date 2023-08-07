@@ -57,7 +57,9 @@ This course is designed for experienced developers who want to take their skills
 | 23 | [Class 31](/Class-31/README.md) |
 | 24 | [Class 32](/Class-32/README.md) |
 | 25 | [Class 33](/Class-33/README.md) |
-| 26 | [Class 34](/Class-34/README.md) |
+| 26 | [Class 34](/Class34/README.md) |
+| 27 | [Class 36](/Class-36/README.md) |
+
 
 
 
