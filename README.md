@@ -62,6 +62,8 @@ This course is designed for experienced developers who want to take their skills
 | 28 | [Graphs](/Graph/README.md) |
 | 29 | [Class 37](/Class-37/README.md) |
 | 29 | [Class 38](/Class-38/README.md) |
+| 30 | [Class 39](/Class-39/README.md) |
+
 
 
 
